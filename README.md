@@ -4,7 +4,6 @@
 ![Project Flow Chart](Screenshots/ProjectFlows.png)
 
 
-Screenshots/ProjectFlows.png
 
 ### 🔍 Overview
 Lakehouse Nexus is an end-to-end data pipeline built using Azure’s Medallion Architecture (Bronze, Silver, and Gold layers). This project showcases a scalable and efficient data engineering workflow that transforms raw data into meaningful insights using Azure Data Factory, Databricks, Synapse, and Power BI.
