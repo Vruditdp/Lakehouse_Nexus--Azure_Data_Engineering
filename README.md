@@ -1,7 +1,7 @@
 # Lakehouse Nexus: An Azure Data Journey 
 
 
-![Project Flow Chart](Screenshots\ProjectFlows.png)
+![Project Flow Chart](Screenshots/ProjectFlows.png)
 
 
 Screenshots/ProjectFlows.png
